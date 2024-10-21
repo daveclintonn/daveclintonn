@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! Welcome Here
 
-<!--
-**daveclintonn/daveclintonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This ain't my main gig—just where I mess around with open source stuff. Think of it like charity work... but with code. If you want the real action, head over to [**My Main GitHub**](https://github.com/daveclinton/daveclinton).
 
-Here are some ideas to get you started:
+## My Portfolio  
+Want to see what I can actually do when I’m sober (mostly)? Check out [**My Portfolio**](http://daveclintonn.cc/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Fork it, star it, or just gawk. It’s all good.
+
+Cheers,  
+[David Clinton]
